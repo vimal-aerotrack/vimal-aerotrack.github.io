@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   width="56.693501mm"
+   height="19.271942mm"
+   viewBox="0 0 56.693501 19.271942"
+   version="1.1"
+   id="svg883">
+  <defs
+     id="defs877" />
+  <metadata
+     id="metadata880">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-20.034203,-84.858078)">
+    <circle
+       style="fill:#fbc44f;fill-opacity:1;stroke:none;stroke-width:0.484489;stroke-miterlimit:4;stroke-dasharray:0, 5.32937;stroke-dashoffset:0"
+       id="path833-040"
+       cx="22.534203"
+       cy="94.006668"
+       r="2.5" />
+    <circle
+       style="fill:#31cb94;fill-opacity:1;stroke:#c2a257;stroke-width:0.775182;stroke-miterlimit:4;stroke-dasharray:0, 8.52699;stroke-dashoffset:0;stroke-opacity:1"
+       id="path833-0-9"
+       cx="27.412434"
+       cy="88.858078"
+       r="4" />
+    <circle
+       style="fill:#c85bae;fill-opacity:1;stroke:none;stroke-width:0.290692;stroke-miterlimit:4;stroke-dasharray:0, 3.19762;stroke-dashoffset:0"
+       id="path833-0-7-2"
+       cx="34.933567"
+       cy="88.897568"
+       r="1.5" />
+    <circle
+       style="fill:#43c0f6;fill-opacity:1;stroke:none;stroke-width:0.484489;stroke-miterlimit:4;stroke-dasharray:0, 5.32937;stroke-dashoffset:0"
+       id="path833-04-4"
+       cx="36.516144"
+       cy="96.542526"
+       r="2.5" />
+    <circle
+       style="fill:#b7c85b;fill-opacity:1;stroke:#c2a257;stroke-width:0.387591;stroke-miterlimit:4;stroke-dasharray:0, 4.2635;stroke-dashoffset:0;stroke-opacity:1"
+       id="path833-0-2-9"
+       cx="32.56406"
+       cy="92.511368"
+       r="2" />
+    <circle
+       style="fill:none;fill-opacity:1;stroke:#e0c888;stroke-width:0.25;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:55.3701;stroke-opacity:1"
+       id="path1016-2"
+       cx="30.277107"
+       cy="94.492897"
+       r="7.7291803" />
+    <circle
+       style="fill:#fc6295;fill-opacity:1;stroke:none;stroke-width:0.968976;stroke-miterlimit:4;stroke-dasharray:0, 10.6587;stroke-dashoffset:0"
+       id="path833-0-0-9"
+       cx="29.055294"
+       cy="99.13002"
+       r="5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:11.28890000000000171px;line-height:0.65;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.264583;"
+       x="40.652786"
+       y="93.922905"
+       id="text1020-1"><tspan
+         id="tspan1018-0"
+         x="40.652786"
+         y="93.922905"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28890000000000171px;font-family:'Arima Madurai';-inkscape-font-specification:'Arima Madurai Medium';stroke-width:0.264583;fill:#ffffff;fill-opacity:1;">talent</tspan><tspan
+         x="40.652786"
+         y="102.73116"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:11.28890000000000171px;font-family:'Arima Madurai';-inkscape-font-specification:'Arima Madurai Medium';stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
+         id="tspan1022-9">remote</tspan></text>
+  </g>
+</svg>
