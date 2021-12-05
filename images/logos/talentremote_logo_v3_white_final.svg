@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56.694mm" height="19.272mm" version="1.1" viewBox="0 0 56.694 19.272" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient875" x1="28.976" x2="33.99" y1="99.112" y2="99.044" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fc6295" offset="0"/>
+   <stop stop-color="#fc6295" stop-opacity=".8" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient883" x1="28.853" x2="30.312" y1="88.664" y2="86.193" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#b7c85b" offset="0"/>
+   <stop stop-color="#b7c85b" stop-opacity=".8" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient891" x1="22.512" x2="24.937" y1="94.638" y2="92.986" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#fbc44f" offset="0"/>
+   <stop stop-color="#fbc44f" stop-opacity=".65" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient899" x1="35.151" x2="35.369" y1="88.691" y2="87.386" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#c85bae" offset="0"/>
+   <stop stop-color="#c85bae" stop-opacity=".65" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient907" x1="36.661" x2="35.718" y1="96.577" y2="94.207" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#43c0f6" offset="0"/>
+   <stop stop-color="#43c0f6" stop-opacity=".65" offset="1"/>
+  </linearGradient>
+  <linearGradient id="linearGradient1547" x1="32.556" x2="34.564" y1="92.58" y2="92.511" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#58dadc" offset="0"/>
+   <stop stop-color="#58dadc" stop-opacity=".65" offset="1"/>
+  </linearGradient>
+ </defs>
+ <g transform="translate(-20.034 -84.858)">
+  <g>
+   <circle cx="22.534" cy="94.007" r="2.5" fill="url(#linearGradient891)"/>
+   <circle cx="27.412" cy="88.858" r="4" fill="url(#linearGradient883)" stroke="#c2a257" stroke-dasharray="0, 8.52698999999999785" stroke-width=".77518"/>
+   <circle cx="36.516" cy="96.543" r="2.5" fill="url(#linearGradient907)"/>
+   <circle cx="32.564" cy="92.511" r="2" fill="url(#linearGradient1547)"/>
+  </g>
+  <circle cx="30.277" cy="94.493" r="7.7292" fill="none" stroke="#e0c888" stroke-dashoffset="55.37" stroke-width=".25"/>
+  <g>
+   <text x="40.652786" y="93.922905" fill="#ffffff" font-family="'Arima Madurai'" font-size="11.289px" font-weight="500" stroke-width=".26458" style="line-height:0.65" xml:space="preserve"><tspan x="40.652786" y="93.922905">talent</tspan><tspan x="40.652786" y="102.73116">remote</tspan></text>
+   <circle cx="29.055" cy="99.13" r="5" fill="url(#linearGradient875)"/>
+   <circle cx="34.934" cy="88.898" r="1.5" fill="url(#linearGradient899)"/>
+  </g>
+ </g>
+</svg>
